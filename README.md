@@ -18,3 +18,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Project Purpose
 To learn git and github skills
+
+### Project Owner
+Min-Han Tseng
